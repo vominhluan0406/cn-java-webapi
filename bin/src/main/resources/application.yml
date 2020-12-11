@@ -1,0 +1,5 @@
+   amazonProperties:
+      endpointUrl: https://s3.ap-southeast-1.amazonaws.com
+      accessKey: AKIA4XGH4P6FKSLUM7HW
+      secretKey: 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
+      bucketName: com.web.shop
